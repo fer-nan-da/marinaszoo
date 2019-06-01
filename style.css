@@ -1,0 +1,72 @@
+body {
+	background: #FAFAFA;
+	color: ;
+	font-family: 'Alice', serif;
+	margin: 0px;
+}
+
+#banner {
+	text-align: center;
+	background-image: url("images/banner.png");
+	background-size: cover;
+	padding: 120px 0px;
+}
+
+#banner h1 {
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 60px;
+	letter-spacing: 5px;
+	color: #eeeeee;
+}
+
+#banner p {
+	font-family: 'Alice', bold;
+	font-size: 30px;
+	color: #bfcd7e;
+	line-height: 1.1em;
+  display: inline-block;
+  color: white;
+  background: #76a21e;
+}
+
+
+h2 {
+	font-family: 'Passion One';
+	font-size: 30px;
+	letter-spacing: 3px;
+	color: #009975;
+	text-align: center;
+}
+
+.section {
+	padding: 40px 0px;
+	text-align: center;
+}
+
+#footer {
+	background: #e8e8e8;
+	text-align: center;
+	font-family: 'Passion One';
+	font-size: 15px;
+	letter-spacing: 3px;
+	color: #009975;
+	line-height: 50px;
+}
+
+.fab {
+	color: #76a21e;
+	font-size: 30px;
+}
+
+.fas {
+	color: #76a21e;
+	font-size: 30px;
+}
+
+a {
+
+}
+
+a:hover {
+	text-decoration: none;
+}
